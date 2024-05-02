@@ -5,11 +5,11 @@ Download Animal.csv, SessionAnimalTrait.csv, and 315PROJECT_COMMANDS.sql
 
 open up terminal
 
-Type the following, replacing database_name with what you want the database to be named:
+Enter the following command:
 
 ```
-createdb database_name
-psql database_name
+createdb 315Project
+psql 315Project
 ```
 
 To populate the database:
